@@ -1,0 +1,5 @@
+My Resolusi dalam 1 semester
+  - Konsisten belajar OOP PHP
+  - Konsisten belajar MVC PHP
+  - Konsisteh belajar Laravel
+  
