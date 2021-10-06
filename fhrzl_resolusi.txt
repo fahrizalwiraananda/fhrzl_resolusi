@@ -3,4 +3,5 @@ My Resolusi dalam 1 semester
   - Konsisten belajar MVC PHP
   - Konsisteh belajar Laravel
   - Saya akan membuat web sederhana
+  - membuat video
   
